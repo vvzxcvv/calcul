@@ -1,0 +1,3 @@
+[submodule "example_pypi_package"]
+	path = example_pypi_package
+	url = https://github.com/tomchen/example_pypi_package
